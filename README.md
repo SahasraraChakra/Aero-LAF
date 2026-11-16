@@ -1,4 +1,4 @@
-# Aero Look & Feel for Swing (Windows 7 style, Inter 11)
+# Aero Look & Feel v3 for Swing (Windows 7 style, Inter 11)
 
 ### Screens 
 
