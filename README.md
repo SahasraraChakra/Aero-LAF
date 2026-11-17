@@ -125,8 +125,8 @@ button.putClientProperty("JButton.style", "primary"); // primary, standard, erro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/SahasraraChakra/Aero-LAF.git
+cd Aero-LAF
 ```
 
 2. **Using an IDE:** open the project in NetBeans (or IntelliJ IDEA / VSCodium with Java extensions), make sure the project JDK is 17+, add the libraries from the `lib/` folder to the classpath, then choose **Run / Build**.
